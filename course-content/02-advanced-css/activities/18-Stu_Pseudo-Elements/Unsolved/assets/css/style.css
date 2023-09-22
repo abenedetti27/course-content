@@ -54,9 +54,11 @@ article {
   border-bottom: 1px solid #d8a47f;
 }
 
-article p {
+article p a:hover {
   margin: 2% 0;
   font-size: 110%;
+  tex ;
+  
 }
 
 /* TODO: Style the term/phrase - underline, black text, grab cursor */
